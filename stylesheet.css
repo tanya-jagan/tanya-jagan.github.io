@@ -5,7 +5,7 @@ body {
     background-color: #666386;
 }
 .section {
-    background-color: rgb(68, 47, 154);
+    background-color: rgb(184, 176, 217);
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
@@ -29,7 +29,7 @@ a:hover {
     color: #555;
 }
 img {
-    width: 1 px;
-    height: 1 px;
+    width: 119px;
+    height: 119px;
     border-radius: 8px;
 }
