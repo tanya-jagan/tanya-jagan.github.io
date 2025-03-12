@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #5a5871;
 }
 .section {
     background-color: rgb(223, 218, 244);
@@ -29,7 +29,7 @@ a:hover {
     color: #555;
 }
 img {
-    width: 15 px;
+    width: 1 px;
     height: auto;
     border-radius: 8px;
 }
